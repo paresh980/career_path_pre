@@ -1,0 +1,544 @@
+NNLDESC,ClusterTitle,PathTitle,SOCTITLE,EntryWage,MeanWage,combined_features
+NOW,Advanced Manufacturing,0,Customer Service Representatives,25850,34530,NOW Advanced Manufacturing Customer Service Representatives
+NOW,Advanced Manufacturing,0,Receptionists and Information Clerks,21040,26600,NOW Advanced Manufacturing Receptionists and Information Clerks
+NOW,Advanced Manufacturing,0,"Office Clerks, General",22440,31640,"NOW Advanced Manufacturing Office Clerks, General"
+NEXT,Advanced Manufacturing,0,First-Line Supervisors of Non-Retail Sales Workers,49660,71560,NEXT Advanced Manufacturing First-Line Supervisors of Non-Retail Sales Workers
+NEXT,Advanced Manufacturing,0,First-Line Supervisors of Office and Administrative Support Workers,41230,56110,NEXT Advanced Manufacturing First-Line Supervisors of Office and Administrative Support Workers
+NEXT,Advanced Manufacturing,0,Executive Secretaries and Executive Administrative Assistants,44750,57460,NEXT Advanced Manufacturing Executive Secretaries and Executive Administrative Assistants
+LATER,Advanced Manufacturing,0,General and Operations Managers,57360,106730,LATER Advanced Manufacturing General and Operations Managers
+LATER,Advanced Manufacturing,0,Sales Managers,76040,133120,LATER Advanced Manufacturing Sales Managers
+LATER,Advanced Manufacturing,0,"Sales Rep., Wholesale & Manufacturing, Technical & Scientific Products",54250,84320,"LATER Advanced Manufacturing Sales Rep., Wholesale & Manufacturing, Technical & Scientific Products"
+NEXT,Advanced Manufacturing,1,Electrical and Electronics Drafters,43610,55370,NEXT Advanced Manufacturing Electrical and Electronics Drafters
+NEXT,Advanced Manufacturing,1,Mechanical Drafters,39640,51900,NEXT Advanced Manufacturing Mechanical Drafters
+NEXT,Advanced Manufacturing,1,Civil Engineering Technicians,39480,51060,NEXT Advanced Manufacturing Civil Engineering Technicians
+NEXT,Advanced Manufacturing,1,Electrical and Electronic Engineering Technicians,49320,62330,NEXT Advanced Manufacturing Electrical and Electronic Engineering Technicians
+NEXT,Advanced Manufacturing,1,Industrial Engineering Technicians,42650,61840,NEXT Advanced Manufacturing Industrial Engineering Technicians
+NEXT,Advanced Manufacturing,1,Mechanical Engineering Technicians,37960,53490,NEXT Advanced Manufacturing Mechanical Engineering Technicians
+NEXT,Advanced Manufacturing,1,Industrial Machinery Mechanics,40560,54310,NEXT Advanced Manufacturing Industrial Machinery Mechanics
+LATER,Advanced Manufacturing,1,Architectural and Engineering Managers,106270,135440,LATER Advanced Manufacturing Architectural and Engineering Managers
+LATER,Advanced Manufacturing,1,Civil Engineers,61710,85090,LATER Advanced Manufacturing Civil Engineers
+LATER,Advanced Manufacturing,1,Electrical Engineers,73490,94530,LATER Advanced Manufacturing Electrical Engineers
+LATER,Advanced Manufacturing,1,Industrial Engineers,65960,86620,LATER Advanced Manufacturing Industrial Engineers
+LATER,Advanced Manufacturing,1,Mechanical Engineers,66350,86360,LATER Advanced Manufacturing Mechanical Engineers
+NEXT,Advanced Manufacturing,2,Electricians,46530,61630,NEXT Advanced Manufacturing Electricians
+NEXT,Advanced Manufacturing,2,Sheet Metal Workers,38160,63400,NEXT Advanced Manufacturing Sheet Metal Workers
+NEXT,Advanced Manufacturing,2,Millwrights,38550,58140,NEXT Advanced Manufacturing Millwrights
+NEXT,Advanced Manufacturing,2,First-Line Supervisors of Production and Operating Workers,41920,57630,NEXT Advanced Manufacturing First-Line Supervisors of Production and Operating Workers
+NEXT,Advanced Manufacturing,2,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",39610,51140,"NEXT Advanced Manufacturing Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic"
+NEXT,Advanced Manufacturing,2,Machinists,32850,44660,NEXT Advanced Manufacturing Machinists
+NEXT,Advanced Manufacturing,2,Tool and Die Makers,43880,58590,NEXT Advanced Manufacturing Tool and Die Makers
+LATER,Advanced Manufacturing,2,Industrial Production Managers,71430,101000,LATER Advanced Manufacturing Industrial Production Managers
+NOW,Bioscience,3,Nonfarm Animal Caretakers,18350,23630,NOW Bioscience Nonfarm Animal Caretakers
+NOW,Bioscience,3,"Farmworkers, Farm, Ranch, and Aquacultural Animals",20980,25970,"NOW Bioscience Farmworkers, Farm, Ranch, and Aquacultural Animals"
+NEXT,Bioscience,3,Veterinary Technologists and Technicians,27560,34840,NEXT Bioscience Veterinary Technologists and Technicians
+LATER,Bioscience,3,Veterinarians,69360,96250,LATER Bioscience Veterinarians
+NEXT,Bioscience,2,Industrial Engineering Technicians,42650,61840,NEXT Bioscience Industrial Engineering Technicians
+NEXT,Bioscience,2,Mechanical Engineering Technicians,37960,53490,NEXT Bioscience Mechanical Engineering Technicians
+NEXT,Bioscience,2,Industrial Machinery Mechanics,40560,54310,NEXT Bioscience Industrial Machinery Mechanics
+NEXT,Bioscience,2,"Maintenance and Repair Workers, General",27790,38140,"NEXT Bioscience Maintenance and Repair Workers, General"
+NEXT,Bioscience,2,First-Line Supervisors of Production and Operating Workers,41920,57630,NEXT Bioscience First-Line Supervisors of Production and Operating Workers
+NEXT,Bioscience,2,Machinists,32850,44660,NEXT Bioscience Machinists
+NEXT,Bioscience,2,Chemical Plant and System Operators,57280,68280,NEXT Bioscience Chemical Plant and System Operators
+LATER,Bioscience,2,Industrial Production Managers,71430,101000,LATER Bioscience Industrial Production Managers
+LATER,Bioscience,2,Industrial Engineers,65960,86620,LATER Bioscience Industrial Engineers
+LATER,Bioscience,2,Mechanical Engineers,66350,86360,LATER Bioscience Mechanical Engineers
+NOW,Bioscience,4,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",22190,30660,"NOW Bioscience Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+NOW,Bioscience,4,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",20170,27370,"NOW Bioscience Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+NEXT,Bioscience,4,Agricultural and Food Science Technicians,29380,43330,NEXT Bioscience Agricultural and Food Science Technicians
+NEXT,Bioscience,4,Chemical Technicians,36970,51360,NEXT Bioscience Chemical Technicians
+NEXT,Bioscience,4,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",37630,48610,"NEXT Bioscience First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+LATER,Bioscience,4,Natural Sciences Managers,63770,113730,LATER Bioscience Natural Sciences Managers
+LATER,Bioscience,4,Chemical Engineers,76670,104960,LATER Bioscience Chemical Engineers
+LATER,Bioscience,4,Food Scientists and Technologists,43050,69580,LATER Bioscience Food Scientists and Technologists
+LATER,Bioscience,4,Biochemists and Biophysicists,56250,87010,LATER Bioscience Biochemists and Biophysicists
+LATER,Bioscience,4,"Medical Scientists, Except Epidemiologists",45270,63800,"LATER Bioscience Medical Scientists, Except Epidemiologists"
+LATER,Bioscience,4,Chemists,51110,72080,LATER Bioscience Chemists
+LATER,Bioscience,4,Biological Technicians,32850,40730,LATER Bioscience Biological Technicians
+NEXT,Construction,5,Architectural and Civil Drafters,38670,50970,NEXT Construction Architectural and Civil Drafters
+NEXT,Construction,5,Electrical and Electronics Drafters,43610,55370,NEXT Construction Electrical and Electronics Drafters
+NEXT,Construction,5,Mechanical Drafters,39640,51900,NEXT Construction Mechanical Drafters
+NEXT,Construction,5,Civil Engineering Technicians,39480,51060,NEXT Construction Civil Engineering Technicians
+NEXT,Construction,5,Electrical and Electronic Engineering Technicians,49320,62330,NEXT Construction Electrical and Electronic Engineering Technicians
+NEXT,Construction,5,Environmental Engineering Technicians,31440,43840,NEXT Construction Environmental Engineering Technicians
+NEXT,Construction,5,Mechanical Engineering Technicians,37960,53490,NEXT Construction Mechanical Engineering Technicians
+LATER,Construction,5,Architectural and Engineering Managers,106270,135440,LATER Construction Architectural and Engineering Managers
+LATER,Construction,5,"Architects, Except Landscape and Naval",51990,75970,"LATER Construction Architects, Except Landscape and Naval"
+LATER,Construction,5,Surveyors,42920,56180,LATER Construction Surveyors
+LATER,Construction,5,Civil Engineers,61710,85090,LATER Construction Civil Engineers
+LATER,Construction,5,Electrical Engineers,73490,94530,LATER Construction Electrical Engineers
+LATER,Construction,5,Environmental Engineers,55490,75570,LATER Construction Environmental Engineers
+LATER,Construction,5,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",65380,88870,"LATER Construction Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"
+LATER,Construction,5,Mechanical Engineers,66350,86360,LATER Construction Mechanical Engineers
+NOW,Construction,6,Carpet Installers,34920,50920,NOW Construction Carpet Installers
+NOW,Construction,6,Construction Laborers,29980,45540,NOW Construction Construction Laborers
+NOW,Construction,6,"Insulation Workers, Floor, Ceiling, and Wall",24700,39350,"NOW Construction Insulation Workers, Floor, Ceiling, and Wall"
+NOW,Construction,6,Pipelayers,37550,54850,NOW Construction Pipelayers
+NOW,Construction,6,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",31910,47260,"NOW Construction Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
+NOW,Construction,6,Helpers--Carpenters,28940,36310,NOW Construction Helpers--Carpenters
+NOW,Construction,6,Helpers--Electricians,27680,35350,NOW Construction Helpers--Electricians
+NOW,Construction,6,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",26560,40100,"NOW Construction Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"
+NOW,Construction,6,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",29520,43230,"NOW Construction Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+NOW,Construction,6,Helpers--Roofers,36830,47120,NOW Construction Helpers--Roofers
+NOW,Construction,6,"Helpers--Installation, Maintenance, and Repair Workers",22200,29700,"NOW Construction Helpers--Installation, Maintenance, and Repair Workers"
+NOW,Construction,6,"Laborers and Freight, Stock, and Material Movers, Hand",22430,29750,"NOW Construction Laborers and Freight, Stock, and Material Movers, Hand"
+NEXT,Construction,6,Boilermakers,35760,55370,NEXT Construction Boilermakers
+NEXT,Construction,6,Brickmasons and Blockmasons,54610,63710,NEXT Construction Brickmasons and Blockmasons
+NEXT,Construction,6,Stonemasons,31930,46060,NEXT Construction Stonemasons
+NEXT,Construction,6,Carpenters,37340,54370,NEXT Construction Carpenters
+NEXT,Construction,6,Tile and Marble Setters,31990,53490,NEXT Construction Tile and Marble Setters
+NEXT,Construction,6,Electricians,46530,61630,NEXT Construction Electricians
+NEXT,Construction,6,Glaziers,36450,52320,NEXT Construction Glaziers
+NEXT,Construction,6,"Insulation Workers, Mechanical",46700,58470,"NEXT Construction Insulation Workers, Mechanical"
+NEXT,Construction,6,"Plumbers, Pipefitters, and Steamfitters",44010,63500,"NEXT Construction Plumbers, Pipefitters, and Steamfitters"
+NEXT,Construction,6,Plasterers and Stucco Masons,30430,43640,NEXT Construction Plasterers and Stucco Masons
+NEXT,Construction,6,Reinforcing Iron and Rebar Workers,46320,65980,NEXT Construction Reinforcing Iron and Rebar Workers
+NEXT,Construction,6,Sheet Metal Workers,38160,63400,NEXT Construction Sheet Metal Workers
+NEXT,Construction,6,Structural Iron and Steel Workers,40800,57020,NEXT Construction Structural Iron and Steel Workers
+NEXT,Construction,6,Elevator Installers and Repairers,56900,77200,NEXT Construction Elevator Installers and Repairers
+NEXT,Construction,6,"First-Line Supervisors of Mechanics, Installers, and Repairers",44280,60630,"NEXT Construction First-Line Supervisors of Mechanics, Installers, and Repairers"
+NEXT,Construction,6,"Mobile Heavy Equipment Mechanics, Except Engines",40080,51040,"NEXT Construction Mobile Heavy Equipment Mechanics, Except Engines"
+NEXT,Construction,6,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",33820,46930,"NEXT Construction Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+NEXT,Construction,6,Millwrights,38550,58140,NEXT Construction Millwrights
+NEXT,Construction,6,Electrical Power-Line Installers and Repairers,51690,68100,NEXT Construction Electrical Power-Line Installers and Repairers
+NEXT,Construction,6,Telecommunications Line Installers and Repairers,33880,48440,NEXT Construction Telecommunications Line Installers and Repairers
+NEXT,Construction,6,Excavating and Loading Machine and Dragline Operators,31600,44270,NEXT Construction Excavating and Loading Machine and Dragline Operators
+LATER,Construction,6,Construction Managers,68890,99180,LATER Construction Construction Managers
+LATER,Construction,6,Cost Estimators,46050,65100,LATER Construction Cost Estimators
+LATER,Construction,6,Commercial and Industrial Designers,39840,57010,LATER Construction Commercial and Industrial Designers
+LATER,Construction,6,Interior Designers,42050,63310,LATER Construction Interior Designers
+NOW,Education,7,Customer Service Representatives,25850,34530,NOW Education Customer Service Representatives
+NOW,Education,7,"Interviewers, Except Eligibility and Loan",24020,31990,"NOW Education Interviewers, Except Eligibility and Loan"
+NOW,Education,7,Receptionists and Information Clerks,21040,26600,NOW Education Receptionists and Information Clerks
+NOW,Education,7,Data Entry Keyers,26100,30830,NOW Education Data Entry Keyers
+NOW,Education,7,Word Processors and Typists,26560,33500,NOW Education Word Processors and Typists
+NOW,Education,7,"Office Clerks, General",22440,31640,"NOW Education Office Clerks, General"
+NOW,Education,7,"Office & Administrative Support Workers, All Other",31740,37900,"NOW Education Office & Administrative Support Workers, All Other"
+NEXT,Education,7,Web Developers,40600,59210,NEXT Education Web Developers
+NEXT,Education,7,Computer User Support Specialists,34390,46570,NEXT Education Computer User Support Specialists
+NEXT,Education,7,Computer Network Support Specialists,40750,55100,NEXT Education Computer Network Support Specialists
+NEXT,Education,7,First-Line Supervisors of Office and Administrative Support Workers,41230,56110,NEXT Education First-Line Supervisors of Office and Administrative Support Workers
+NEXT,Education,7,"Bookkeeping, Accounting, and Auditing Clerks",28720,37800,"NEXT Education Bookkeeping, Accounting, and Auditing Clerks"
+NEXT,Education,7,"Human Resources Assistants, Except Payroll and Timekeeping",33250,40420,"NEXT Education Human Resources Assistants, Except Payroll and Timekeeping"
+NEXT,Education,7,Executive Secretaries and Executive Administrative Assistants,44750,57460,NEXT Education Executive Secretaries and Executive Administrative Assistants
+LATER,Education,7,General and Operations Managers,57360,106730,LATER Education General and Operations Managers
+LATER,Education,7,Administrative Services Managers,62290,89270,LATER Education Administrative Services Managers
+LATER,Education,7,Computer and Information Systems Managers,97360,130240,LATER Education Computer and Information Systems Managers
+LATER,Education,7,Financial Managers,91630,134210,LATER Education Financial Managers
+LATER,Education,7,Human Resources Managers,83320,119950,LATER Education Human Resources Managers
+LATER,Education,7,Human Resources Specialists,43630,63910,LATER Education Human Resources Specialists
+LATER,Education,7,Management Analysts,56410,78850,LATER Education Management Analysts
+LATER,Education,7,"Meeting, Convention, and Event Planners",32800,48510,"LATER Education Meeting, Convention, and Event Planners"
+LATER,Education,7,Fundraisers,39770,52840,LATER Education Fundraisers
+LATER,Education,7,Training and Development Specialists,40250,59880,LATER Education Training and Development Specialists
+LATER,Education,7,Market Research Analysts & Marketing Specialists,41100,64510,LATER Education Market Research Analysts & Marketing Specialists
+LATER,Education,7,"Business Operations Specialists, All Other",49600,72000,"LATER Education Business Operations Specialists, All Other"
+LATER,Education,7,Accountants and Auditors,48320,70180,LATER Education Accountants and Auditors
+LATER,Education,7,Budget Analysts,56930,71670,LATER Education Budget Analysts
+LATER,Education,7,Network and Computer Systems Administrators,60620,80280,LATER Education Network and Computer Systems Administrators
+LATER,Education,7,Graphic Designers,34810,49410,LATER Education Graphic Designers
+LATER,Education,7,Public Relations Specialists,40930,59360,LATER Education Public Relations Specialists
+NOW,Education,8,Childcare Workers,18480,22850,NOW Education Childcare Workers
+NEXT,Education,8,"Preschool Teachers, Except Special Education",21020,27360,"NEXT Education Preschool Teachers, Except Special Education"
+NEXT,Education,8,Self-Enrichment Education Teachers,19850,38310,NEXT Education Self-Enrichment Education Teachers
+NEXT,Education,8,Teacher Assistants,19400,26220,NEXT Education Teacher Assistants
+LATER,Education,8,"Education Admin., Preschool & Childcare Center",35510,48940,"LATER Education Education Admin., Preschool & Childcare Center"
+LATER,Education,8,"Education Admin., Elementary & Secondary",72080,95080,"LATER Education Education Admin., Elementary & Secondary"
+LATER,Education,8,"Education Administrators, Postsecondary",64290,107700,"LATER Education Education Administrators, Postsecondary"
+LATER,Education,8,"Computer Science Teachers, Postsecondary",57520,85810,"LATER Education Computer Science Teachers, Postsecondary"
+LATER,Education,8,"Mathematical Science Teachers, Postsecondary",51570,88500,"LATER Education Mathematical Science Teachers, Postsecondary"
+LATER,Education,8,"Engineering Teachers, Postsecondary",74580,105360,"LATER Education Engineering Teachers, Postsecondary"
+LATER,Education,8,"Biological Science Teachers, Postsecondary",58520,100660,"LATER Education Biological Science Teachers, Postsecondary"
+LATER,Education,8,"Chemistry Teachers, Postsecondary",58040,90260,"LATER Education Chemistry Teachers, Postsecondary"
+LATER,Education,8,"Political Science Teachers, Postsecondary",58390,87860,"LATER Education Political Science Teachers, Postsecondary"
+LATER,Education,8,"Psychology Teachers, Postsecondary",54900,80410,"LATER Education Psychology Teachers, Postsecondary"
+LATER,Education,8,"Sociology Teachers, Postsecondary",56170,90080,"LATER Education Sociology Teachers, Postsecondary"
+LATER,Education,8,"Health Specialties Teachers, Postsecondary",83910,163280,"LATER Education Health Specialties Teachers, Postsecondary"
+LATER,Education,8,"Nursing Instructors and Teachers, Postsecondary",56880,75490,"LATER Education Nursing Instructors and Teachers, Postsecondary"
+LATER,Education,8,"Education Teachers, Postsecondary",51330,75040,"LATER Education Education Teachers, Postsecondary"
+LATER,Education,8,"Criminal Justice and Law Enforcement Teachers, Postsecondary",50140,74860,"LATER Education Criminal Justice and Law Enforcement Teachers, Postsecondary"
+LATER,Education,8,"Law Teachers, Postsecondary",58960,112020,"LATER Education Law Teachers, Postsecondary"
+LATER,Education,8,"Art, Drama, and Music Teachers, Postsecondary",53830,78930,"LATER Education Art, Drama, and Music Teachers, Postsecondary"
+LATER,Education,8,"Communications Teachers, Postsecondary",51820,75250,"LATER Education Communications Teachers, Postsecondary"
+LATER,Education,8,"English Language and Literature Teachers, Postsecondary",44510,76650,"LATER Education English Language and Literature Teachers, Postsecondary"
+LATER,Education,8,"Foreign Language and Literature Teachers, Postsecondary",49640,76480,"LATER Education Foreign Language and Literature Teachers, Postsecondary"
+LATER,Education,8,"History Teachers, Postsecondary",53250,79040,"LATER Education History Teachers, Postsecondary"
+LATER,Education,8,"Philosophy and Religion Teachers, Postsecondary",45050,70890,"LATER Education Philosophy and Religion Teachers, Postsecondary"
+LATER,Education,8,Graduate Teaching Assistants,19200,32680,LATER Education Graduate Teaching Assistants
+LATER,Education,8,"Recreation & Fitness Studies Teachers, Postsec.",54160,91490,"LATER Education Recreation & Fitness Studies Teachers, Postsec."
+LATER,Education,8,"Vocational Education Teachers, Postsecondary",34510,49940,"LATER Education Vocational Education Teachers, Postsecondary"
+LATER,Education,8,"Kindergarten Teachers, Except Special Education",41700,52700,"LATER Education Kindergarten Teachers, Except Special Education"
+LATER,Education,8,"Elementary School Teachers, Except Special Ed.",38830,52700,"LATER Education Elementary School Teachers, Except Special Ed."
+LATER,Education,8,"Middle School Teachers, Except Special and Career/Technical Education",41120,52620,"LATER Education Middle School Teachers, Except Special and Career/Technical Education"
+LATER,Education,8,"Secondary School Teachers, Except Special and Career/Technical Education",38600,51720,"LATER Education Secondary School Teachers, Except Special and Career/Technical Education"
+LATER,Education,8,"Career/Technical Education Teachers, Secondary School",38110,50120,"LATER Education Career/Technical Education Teachers, Secondary School"
+LATER,Education,8,"Special Education Teachers, Preschool",20930,37180,"LATER Education Special Education Teachers, Preschool"
+LATER,Education,8,"Special Education Teachers, Kindergarten and Elementary School",38890,53910,"LATER Education Special Education Teachers, Kindergarten and Elementary School"
+LATER,Education,8,"Special Education Teachers, Middle School",40130,52630,"LATER Education Special Education Teachers, Middle School"
+LATER,Education,8,"Special Education Teachers, Secondary School",36590,47250,"LATER Education Special Education Teachers, Secondary School"
+LATER,Education,8,Adult Basic and Secondary Education and Literacy Teachers and Instructors,36060,51300,LATER Education Adult Basic and Secondary Education and Literacy Teachers and Instructors
+NOW,Education,9,"Library Assistants, Clerical",18350,22580,"NOW Education Library Assistants, Clerical"
+NEXT,Education,9,Library Technicians,27550,35690,NEXT Education Library Technicians
+NEXT,Education,9,Licensed Practical and Licensed Vocational Nurses,35060,41180,NEXT Education Licensed Practical and Licensed Vocational Nurses
+NEXT,Education,9,Occupational Therapy Assistants,48870,57850,NEXT Education Occupational Therapy Assistants
+NEXT,Education,9,Physical Therapist Assistants,44210,53330,NEXT Education Physical Therapist Assistants
+NEXT,Education,9,Medical Assistants,26370,31370,NEXT Education Medical Assistants
+LATER,Education,9,"Clinical, Counseling, and School Psychologists",44980,64510,"LATER Education Clinical, Counseling, and School Psychologists"
+LATER,Education,9,"Educational, Guidance, School, and Vocational Counselors",36350,49610,"LATER Education Educational, Guidance, School, and Vocational Counselors"
+LATER,Education,9,"Child, Family, and School Social Workers",31340,37050,"LATER Education Child, Family, and School Social Workers"
+LATER,Education,9,Librarians,40110,53240,LATER Education Librarians
+LATER,Education,9,Instructional Coordinators,39370,56280,LATER Education Instructional Coordinators
+LATER,Education,9,Coaches and Scouts,19430,43050,LATER Education Coaches and Scouts
+LATER,Education,9,Interpreters and Translators,38430,59660,LATER Education Interpreters and Translators
+LATER,Education,9,Occupational Therapists,66540,77460,LATER Education Occupational Therapists
+LATER,Education,9,Physical Therapists,67450,82710,LATER Education Physical Therapists
+LATER,Education,9,Speech-Language Pathologists,54370,74140,LATER Education Speech-Language Pathologists
+LATER,Education,9,Registered Nurses,50330,63300,LATER Education Registered Nurses
+NOW,Education,10,Security Guards,24700,36740,NOW Education Security Guards
+NOW,Education,10,Crossing Guards,25410,29150,NOW Education Crossing Guards
+NOW,Education,10,"Cooks, Institution and Cafeteria",19200,24250,"NOW Education Cooks, Institution and Cafeteria"
+NOW,Education,10,Food Preparation Workers,18220,21480,NOW Education Food Preparation Workers
+NOW,Education,10,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",17960,20180,"NOW Education Counter Attendants, Cafeteria, Food Concession, and Coffee Shop"
+NOW,Education,10,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",20110,25670,"NOW Education Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+NOW,Education,10,Maids and Housekeeping Cleaners,18870,22050,NOW Education Maids and Housekeeping Cleaners
+NOW,Education,10,Landscaping and Groundskeeping Workers,22400,28650,NOW Education Landscaping and Groundskeeping Workers
+NOW,Education,10,Cashiers,17890,21250,NOW Education Cashiers
+NOW,Education,10,"Bus Drivers, School or Special Client",21430,30280,"NOW Education Bus Drivers, School or Special Client"
+NEXT,Education,10,Food Service Managers,34270,49980,NEXT Education Food Service Managers
+NEXT,Education,10,Audio and Video Equipment Technicians,30790,41830,NEXT Education Audio and Video Equipment Technicians
+NEXT,Education,10,First-Line Supervisors of Food Preparation and Serving Workers,22280,30750,NEXT Education First-Line Supervisors of Food Preparation and Serving Workers
+NEXT,Education,10,First-Line Supervisors of Housekeeping and Janitorial Workers,28280,38580,NEXT Education First-Line Supervisors of Housekeeping and Janitorial Workers
+NEXT,Education,10,"Supervisors of Landscaping, Lawn Service & Groundskeeping Workers",36210,47030,"NEXT Education Supervisors of Landscaping, Lawn Service & Groundskeeping Workers"
+NEXT,Education,10,"Maintenance and Repair Workers, General",27790,38140,"NEXT Education Maintenance and Repair Workers, General"
+LATER,Education,10,General and Operations Managers,57360,106730,LATER Education General and Operations Managers
+NEXT,Energy,5,Architectural and Civil Drafters,38670,50970,NEXT Energy Architectural and Civil Drafters
+NEXT,Energy,5,Electrical and Electronics Drafters,43610,55370,NEXT Energy Electrical and Electronics Drafters
+NEXT,Energy,5,Mechanical Drafters,39640,51900,NEXT Energy Mechanical Drafters
+NEXT,Energy,5,Civil Engineering Technicians,39480,51060,NEXT Energy Civil Engineering Technicians
+NEXT,Energy,5,Electrical and Electronic Engineering Technicians,49320,62330,NEXT Energy Electrical and Electronic Engineering Technicians
+NEXT,Energy,5,Environmental Engineering Technicians,31440,43840,NEXT Energy Environmental Engineering Technicians
+NEXT,Energy,5,Industrial Engineering Technicians,42650,61840,NEXT Energy Industrial Engineering Technicians
+NEXT,Energy,5,Mechanical Engineering Technicians,37960,53490,NEXT Energy Mechanical Engineering Technicians
+LATER,Energy,5,Architectural and Engineering Managers,106270,135440,LATER Energy Architectural and Engineering Managers
+LATER,Energy,5,Civil Engineers,61710,85090,LATER Energy Civil Engineers
+LATER,Energy,5,Electrical Engineers,73490,94530,LATER Energy Electrical Engineers
+LATER,Energy,5,Environmental Engineers,55490,75570,LATER Energy Environmental Engineers
+LATER,Energy,5,Industrial Engineers,65960,86620,LATER Energy Industrial Engineers
+LATER,Energy,5,Mechanical Engineers,66350,86360,LATER Energy Mechanical Engineers
+NEXT,Energy,2,Electricians,46530,61630,NEXT Energy Electricians
+NEXT,Energy,2,Sheet Metal Workers,38160,63400,NEXT Energy Sheet Metal Workers
+NEXT,Energy,2,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",39410,52870,"NEXT Energy Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+NEXT,Energy,2,Industrial Machinery Mechanics,40560,54310,NEXT Energy Industrial Machinery Mechanics
+NEXT,Energy,2,First-Line Supervisors of Production and Operating Workers,41920,57630,NEXT Energy First-Line Supervisors of Production and Operating Workers
+NEXT,Energy,2,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",39610,51140,"NEXT Energy Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic"
+NEXT,Energy,2,Machinists,32850,44660,NEXT Energy Machinists
+NEXT,Energy,2,Chemical Plant and System Operators,57280,68280,NEXT Energy Chemical Plant and System Operators
+NEXT,Energy,2,Semiconductor Processors,27840,36300,NEXT Energy Semiconductor Processors
+LATER,Energy,2,Industrial Production Managers,71430,101000,LATER Energy Industrial Production Managers
+LATER,Energy,2,Occupational Health and Safety Specialists,48330,66990,LATER Energy Occupational Health and Safety Specialists
+NOW,Financial and Professional,11,Receptionists and Information Clerks,21040,26600,NOW Financial and Professional Receptionists and Information Clerks
+NOW,Financial and Professional,11,Data Entry Keyers,26100,30830,NOW Financial and Professional Data Entry Keyers
+NOW,Financial and Professional,11,"Mail Clerks and Mail Machine Operators, Except Postal Service",25250,30190,"NOW Financial and Professional Mail Clerks and Mail Machine Operators, Except Postal Service"
+NOW,Financial and Professional,11,"Office Clerks, General",22440,31640,"NOW Financial and Professional Office Clerks, General"
+NEXT,Financial and Professional,11,First-Line Supervisors of Office and Administrative Support Workers,41230,56110,NEXT Financial and Professional First-Line Supervisors of Office and Administrative Support Workers
+NEXT,Financial and Professional,11,"Human Resources Assistants, Except Payroll and Timekeeping",33250,40420,"NEXT Financial and Professional Human Resources Assistants, Except Payroll and Timekeeping"
+NEXT,Financial and Professional,11,Executive Secretaries and Executive Administrative Assistants,44750,57460,NEXT Financial and Professional Executive Secretaries and Executive Administrative Assistants
+LATER,Financial and Professional,11,General and Operations Managers,57360,106730,LATER Financial and Professional General and Operations Managers
+LATER,Financial and Professional,11,Administrative Services Managers,62290,89270,LATER Financial and Professional Administrative Services Managers
+LATER,Financial and Professional,11,Human Resources Managers,83320,119950,LATER Financial and Professional Human Resources Managers
+LATER,Financial and Professional,11,Human Resources Specialists,43630,63910,LATER Financial and Professional Human Resources Specialists
+LATER,Financial and Professional,11,Management Analysts,56410,78850,LATER Financial and Professional Management Analysts
+LATER,Financial and Professional,11,"Compensation, Benefits & Job Analysis Specialists",48980,65480,"LATER Financial and Professional Compensation, Benefits & Job Analysis Specialists"
+LATER,Financial and Professional,11,Training and Development Specialists,40250,59880,LATER Financial and Professional Training and Development Specialists
+NOW,Financial and Professional,12,Tellers,21870,26250,NOW Financial and Professional Tellers
+NOW,Financial and Professional,12,"Financial Clerks, All Other",31290,40210,"NOW Financial and Professional Financial Clerks, All Other"
+NEXT,Financial and Professional,12,"Claims Adjusters, Examiners, and Investigators",47920,64130,"NEXT Financial and Professional Claims Adjusters, Examiners, and Investigators"
+NEXT,Financial and Professional,12,"Insurance Appraisers, Auto Damage",62940,89790,"NEXT Financial and Professional Insurance Appraisers, Auto Damage"
+NEXT,Financial and Professional,12,"Bookkeeping, Accounting, and Auditing Clerks",28720,37800,"NEXT Financial and Professional Bookkeeping, Accounting, and Auditing Clerks"
+LATER,Financial and Professional,12,Financial Managers,91630,134210,LATER Financial and Professional Financial Managers
+LATER,Financial and Professional,12,Accountants and Auditors,48320,70180,LATER Financial and Professional Accountants and Auditors
+LATER,Financial and Professional,12,Credit Analysts,50110,76980,LATER Financial and Professional Credit Analysts
+LATER,Financial and Professional,12,Financial Analysts,61470,94930,LATER Financial and Professional Financial Analysts
+LATER,Financial and Professional,12,Personal Financial Advisors,47780,89710,LATER Financial and Professional Personal Financial Advisors
+LATER,Financial and Professional,12,Insurance Underwriters,44670,66380,LATER Financial and Professional Insurance Underwriters
+LATER,Financial and Professional,12,Financial Examiners,46460,73660,LATER Financial and Professional Financial Examiners
+LATER,Financial and Professional,12,Credit Counselors,36980,53070,LATER Financial and Professional Credit Counselors
+LATER,Financial and Professional,12,Loan Officers,49480,76520,LATER Financial and Professional Loan Officers
+LATER,Financial and Professional,12,Actuaries,64900,101140,LATER Financial and Professional Actuaries
+LATER,Financial and Professional,12,"Securities, Commodities, and Financial Services Sales Agents",34180,80550,"LATER Financial and Professional Securities, Commodities, and Financial Services Sales Agents"
+NOW,Financial and Professional,13,File Clerks,24890,33530,NOW Financial and Professional File Clerks
+NOW,Financial and Professional,13,"Office Clerks, General",22440,31640,"NOW Financial and Professional Office Clerks, General"
+NEXT,Financial and Professional,13,Paralegals and Legal Assistants,38730,52340,NEXT Financial and Professional Paralegals and Legal Assistants
+NEXT,Financial and Professional,13,Executive Secretaries and Executive Administrative Assistants,44750,57460,NEXT Financial and Professional Executive Secretaries and Executive Administrative Assistants
+LATER,Financial and Professional,13,Lawyers,66650,115520,LATER Financial and Professional Lawyers
+NOW,Financial and Professional,14,Telemarketers,17980,23520,NOW Financial and Professional Telemarketers
+NOW,Financial and Professional,14,Customer Service Representatives,25850,34530,NOW Financial and Professional Customer Service Representatives
+NEXT,Financial and Professional,14,First-Line Supervisors of Non-Retail Sales Workers,49660,71560,NEXT Financial and Professional First-Line Supervisors of Non-Retail Sales Workers
+LATER,Financial and Professional,14,Advertising and Promotions Managers,74970,122450,LATER Financial and Professional Advertising and Promotions Managers
+LATER,Financial and Professional,14,Marketing Managers,92160,136100,LATER Financial and Professional Marketing Managers
+LATER,Financial and Professional,14,Sales Managers,76040,133120,LATER Financial and Professional Sales Managers
+LATER,Financial and Professional,14,Public Relations and Fundraising Managers,72340,108580,LATER Financial and Professional Public Relations and Fundraising Managers
+LATER,Financial and Professional,14,"Meeting, Convention, and Event Planners",32800,48510,"LATER Financial and Professional Meeting, Convention, and Event Planners"
+LATER,Financial and Professional,14,Market Research Analysts & Marketing Specialists,41100,64510,LATER Financial and Professional Market Research Analysts & Marketing Specialists
+LATER,Financial and Professional,14,Graphic Designers,34810,49410,LATER Financial and Professional Graphic Designers
+LATER,Financial and Professional,14,Public Relations Specialists,40930,59360,LATER Financial and Professional Public Relations Specialists
+NOW,Health Care,11,Customer Service Representatives,25850,34530,NOW Health Care Customer Service Representatives
+NOW,Health Care,11,Receptionists and Information Clerks,21040,26600,NOW Health Care Receptionists and Information Clerks
+NOW,Health Care,11,"Office Clerks, General",22440,31640,"NOW Health Care Office Clerks, General"
+NEXT,Health Care,11,Web Developers,40600,59210,NEXT Health Care Web Developers
+NEXT,Health Care,11,Computer User Support Specialists,34390,46570,NEXT Health Care Computer User Support Specialists
+NEXT,Health Care,11,Medical Records and Health Information Technicians,31420,41620,NEXT Health Care Medical Records and Health Information Technicians
+NEXT,Health Care,11,Medical Transcriptionists,26200,34390,NEXT Health Care Medical Transcriptionists
+NEXT,Health Care,11,First-Line Supervisors of Office and Administrative Support Workers,41230,56110,NEXT Health Care First-Line Supervisors of Office and Administrative Support Workers
+LATER,Health Care,11,Public Relations and Fundraising Managers,72340,108580,LATER Health Care Public Relations and Fundraising Managers
+LATER,Health Care,11,Administrative Services Managers,62290,89270,LATER Health Care Administrative Services Managers
+LATER,Health Care,11,Medical and Health Services Managers,75040,106810,LATER Health Care Medical and Health Services Managers
+LATER,Health Care,11,Accountants and Auditors,48320,70180,LATER Health Care Accountants and Auditors
+LATER,Health Care,11,Computer Systems Analysts,65550,88110,LATER Health Care Computer Systems Analysts
+LATER,Health Care,11,"Software Developers, Applications",75590,96100,"LATER Health Care Software Developers, Applications"
+LATER,Health Care,11,Network and Computer Systems Administrators,60620,80280,LATER Health Care Network and Computer Systems Administrators
+LATER,Health Care,11,Public Relations Specialists,40930,59360,LATER Health Care Public Relations Specialists
+NOW,Health Care,15,Psychiatric Aides,23140,27950,NOW Health Care Psychiatric Aides
+NEXT,Health Care,15,Radiation Therapists,64280,77680,NEXT Health Care Radiation Therapists
+NEXT,Health Care,15,Respiratory Therapists,45020,54760,NEXT Health Care Respiratory Therapists
+NEXT,Health Care,15,Dental Hygienists,63070,69980,NEXT Health Care Dental Hygienists
+NEXT,Health Care,15,Diagnostic Medical Sonographers,57790,71730,NEXT Health Care Diagnostic Medical Sonographers
+NEXT,Health Care,15,Radiologic Technologists,44570,54000,NEXT Health Care Radiologic Technologists
+NEXT,Health Care,15,Occupational Therapy Assistants,48870,57850,NEXT Health Care Occupational Therapy Assistants
+NEXT,Health Care,15,Massage Therapists,31450,37950,NEXT Health Care Massage Therapists
+NEXT,Health Care,15,Dental Assistants,30510,36900,NEXT Health Care Dental Assistants
+NEXT,Health Care,15,Phlebotomists,26570,31630,NEXT Health Care Phlebotomists
+LATER,Health Care,15,Healthcare Social Workers,33630,45620,LATER Health Care Healthcare Social Workers
+LATER,Health Care,15,Mental Health and Substance Abuse Social Workers,24740,34710,LATER Health Care Mental Health and Substance Abuse Social Workers
+LATER,Health Care,15,"Dentists, General",119110,180350,"LATER Health Care Dentists, General"
+LATER,Health Care,15,Pharmacists,112850,123610,LATER Health Care Pharmacists
+LATER,Health Care,15,Obstetricians and Gynecologists,101020,219750,LATER Health Care Obstetricians and Gynecologists
+LATER,Health Care,15,Psychiatrists,153920,235180,LATER Health Care Psychiatrists
+LATER,Health Care,15,Occupational Therapists,66540,77460,LATER Health Care Occupational Therapists
+LATER,Health Care,15,Speech-Language Pathologists,54370,74140,LATER Health Care Speech-Language Pathologists
+NOW,Health Care,16,Home Health Aides,20270,22660,NOW Health Care Home Health Aides
+NOW,Health Care,16,Orderlies,19210,22910,NOW Health Care Orderlies
+NOW,Health Care,16,Physical Therapist Aides,19870,26110,NOW Health Care Physical Therapist Aides
+NOW,Health Care,16,Personal Care Aides,19040,21730,NOW Health Care Personal Care Aides
+NEXT,Health Care,16,Emergency Medical Technicians and Paramedics,25140,34500,NEXT Health Care Emergency Medical Technicians and Paramedics
+NEXT,Health Care,16,Surgical Technologists,34860,42720,NEXT Health Care Surgical Technologists
+NEXT,Health Care,16,Licensed Practical and Licensed Vocational Nurses,35060,41180,NEXT Health Care Licensed Practical and Licensed Vocational Nurses
+NEXT,Health Care,16,Nursing Assistants,20830,25360,NEXT Health Care Nursing Assistants
+NEXT,Health Care,16,Physical Therapist Assistants,44210,53330,NEXT Health Care Physical Therapist Assistants
+NEXT,Health Care,16,Medical Assistants,26370,31370,NEXT Health Care Medical Assistants
+LATER,Health Care,16,Anesthesiologists,190430,249950,LATER Health Care Anesthesiologists
+LATER,Health Care,16,Family and General Practitioners,60340,172940,LATER Health Care Family and General Practitioners
+LATER,Health Care,16,"Pediatricians, General",124210,195800,"LATER Health Care Pediatricians, General"
+LATER,Health Care,16,Physician Assistants,53200,91480,LATER Health Care Physician Assistants
+LATER,Health Care,16,Physical Therapists,67450,82710,LATER Health Care Physical Therapists
+LATER,Health Care,16,Registered Nurses,50330,63300,LATER Health Care Registered Nurses
+LATER,Health Care,16,Nurse Anesthetists,130320,151680,LATER Health Care Nurse Anesthetists
+LATER,Health Care,16,Nurse Practitioners,84750,96490,LATER Health Care Nurse Practitioners
+NOW,Hospitality,17,Security Guards,24700,36740,NOW Hospitality Security Guards
+NOW,Hospitality,17,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",20110,25670,"NOW Hospitality Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+NOW,Hospitality,17,Maids and Housekeeping Cleaners,18870,22050,NOW Hospitality Maids and Housekeeping Cleaners
+NOW,Hospitality,17,Landscaping and Groundskeeping Workers,22400,28650,NOW Hospitality Landscaping and Groundskeeping Workers
+NOW,Hospitality,17,Customer Service Representatives,25850,34530,NOW Hospitality Customer Service Representatives
+NOW,Hospitality,17,"Hotel, Motel, and Resort Desk Clerks",18590,22080,"NOW Hospitality Hotel, Motel, and Resort Desk Clerks"
+NOW,Hospitality,17,"Office Clerks, General",22440,31640,"NOW Hospitality Office Clerks, General"
+NOW,Hospitality,17,Laundry and Dry-Cleaning Workers,18300,21660,NOW Hospitality Laundry and Dry-Cleaning Workers
+NEXT,Hospitality,17,Lodging Managers,29550,45800,NEXT Hospitality Lodging Managers
+NEXT,Hospitality,17,First-Line Supervisors of Housekeeping and Janitorial Workers,28280,38580,NEXT Hospitality First-Line Supervisors of Housekeeping and Janitorial Workers
+NEXT,Hospitality,17,"Supervisors of Landscaping, Lawn Service & Groundskeeping Workers",36210,47030,"NEXT Hospitality Supervisors of Landscaping, Lawn Service & Groundskeeping Workers"
+NEXT,Hospitality,17,First-Line Supervisors of Office and Administrative Support Workers,41230,56110,NEXT Hospitality First-Line Supervisors of Office and Administrative Support Workers
+NEXT,Hospitality,17,"Bookkeeping, Accounting, and Auditing Clerks",28720,37800,"NEXT Hospitality Bookkeeping, Accounting, and Auditing Clerks"
+NEXT,Hospitality,17,Executive Secretaries and Executive Administrative Assistants,44750,57460,NEXT Hospitality Executive Secretaries and Executive Administrative Assistants
+NEXT,Hospitality,17,"Maintenance and Repair Workers, General",27790,38140,"NEXT Hospitality Maintenance and Repair Workers, General"
+LATER,Hospitality,17,General and Operations Managers,57360,106730,LATER Hospitality General and Operations Managers
+LATER,Hospitality,17,Administrative Services Managers,62290,89270,LATER Hospitality Administrative Services Managers
+LATER,Hospitality,17,Financial Managers,91630,134210,LATER Hospitality Financial Managers
+LATER,Hospitality,17,Human Resources Managers,83320,119950,LATER Hospitality Human Resources Managers
+LATER,Hospitality,17,Human Resources Specialists,43630,63910,LATER Hospitality Human Resources Specialists
+LATER,Hospitality,17,Training and Development Specialists,40250,59880,LATER Hospitality Training and Development Specialists
+LATER,Hospitality,17,Accountants and Auditors,48320,70180,LATER Hospitality Accountants and Auditors
+NOW,Hospitality,18,"Lifeguards, Ski Patrol, and Other Recreational Protective Service",17600,18970,"NOW Hospitality Lifeguards, Ski Patrol, and Other Recreational Protective Service"
+NOW,Hospitality,18,Gaming Dealers,18530,29960,NOW Hospitality Gaming Dealers
+NOW,Hospitality,18,"Ushers, Lobby Attendants, and Ticket Takers",17630,20920,"NOW Hospitality Ushers, Lobby Attendants, and Ticket Takers"
+NOW,Hospitality,18,Amusement and Recreation Attendants,17890,21010,NOW Hospitality Amusement and Recreation Attendants
+NOW,Hospitality,18,Gaming Change Persons and Booth Cashiers,21980,27500,NOW Hospitality Gaming Change Persons and Booth Cashiers
+NEXT,Hospitality,18,Gaming Managers,46750,63230,NEXT Hospitality Gaming Managers
+NEXT,Hospitality,18,Craft Artists,23080,27000,NEXT Hospitality Craft Artists
+NEXT,Hospitality,18,Audio and Video Equipment Technicians,30790,41830,NEXT Hospitality Audio and Video Equipment Technicians
+NEXT,Hospitality,18,Sound Engineering Technicians,35060,52270,NEXT Hospitality Sound Engineering Technicians
+NEXT,Hospitality,18,Photographers,21760,36970,NEXT Hospitality Photographers
+LATER,Hospitality,18,General and Operations Managers,57360,106730,LATER Hospitality General and Operations Managers
+LATER,Hospitality,18,"Agents & Business Mgr., Artists, Performers, Athl.",29430,39480,"LATER Hospitality Agents & Business Mgr., Artists, Performers, Athl."
+LATER,Hospitality,18,Museum Technicians and Conservators,31510,40230,LATER Hospitality Museum Technicians and Conservators
+LATER,Hospitality,18,"Fine Artists, Including Painters, Sculptors, and Illustrators",25780,39610,"LATER Hospitality Fine Artists, Including Painters, Sculptors, and Illustrators"
+LATER,Hospitality,18,Multimedia Artists and Animators,40820,56340,LATER Hospitality Multimedia Artists and Animators
+LATER,Hospitality,18,Set and Exhibit Designers,33620,48190,LATER Hospitality Set and Exhibit Designers
+LATER,Hospitality,18,Coaches and Scouts,19430,43050,LATER Hospitality Coaches and Scouts
+LATER,Hospitality,18,Music Directors and Composers,35260,52660,LATER Hospitality Music Directors and Composers
+LATER,Hospitality,18,Writers and Authors,44110,64770,LATER Hospitality Writers and Authors
+LATER,Hospitality,18,Athletic Trainers,38670,45720,LATER Hospitality Athletic Trainers
+NOW,Hospitality,19,"Cooks, Fast Food",17660,19530,"NOW Hospitality Cooks, Fast Food"
+NOW,Hospitality,19,"Cooks, Institution and Cafeteria",19200,24250,"NOW Hospitality Cooks, Institution and Cafeteria"
+NOW,Hospitality,19,"Cooks, Short Order",17640,20360,"NOW Hospitality Cooks, Short Order"
+NOW,Hospitality,19,Food Preparation Workers,18220,21480,NOW Hospitality Food Preparation Workers
+NOW,Hospitality,19,Bartenders,17970,24890,NOW Hospitality Bartenders
+NOW,Hospitality,19,"Combined Food Preparation and Serving Workers, Including Fast Food",17640,19990,"NOW Hospitality Combined Food Preparation and Serving Workers, Including Fast Food"
+NOW,Hospitality,19,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",17960,20180,"NOW Hospitality Counter Attendants, Cafeteria, Food Concession, and Coffee Shop"
+NOW,Hospitality,19,Waiters and Waitresses,17790,21110,NOW Hospitality Waiters and Waitresses
+NOW,Hospitality,19,"Food Servers, Nonrestaurant",18070,21090,"NOW Hospitality Food Servers, Nonrestaurant"
+NOW,Hospitality,19,Dining Room and Cafeteria Attendants and Bartender Helpers,17880,21330,NOW Hospitality Dining Room and Cafeteria Attendants and Bartender Helpers
+NOW,Hospitality,19,Dishwashers,18030,20560,NOW Hospitality Dishwashers
+NOW,Hospitality,19,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",17880,19890,"NOW Hospitality Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+NOW,Hospitality,19,"Food Preparation and Serving Related Workers, All Other",18700,21640,"NOW Hospitality Food Preparation and Serving Related Workers, All Other"
+NEXT,Hospitality,19,Food Service Managers,34270,49980,NEXT Hospitality Food Service Managers
+NEXT,Hospitality,19,First-Line Supervisors of Food Preparation and Serving Workers,22280,30750,NEXT Hospitality First-Line Supervisors of Food Preparation and Serving Workers
+NEXT,Hospitality,19,"Cooks, Restaurant",19530,23800,"NEXT Hospitality Cooks, Restaurant"
+NEXT,Hospitality,19,Bakers,19460,24420,NEXT Hospitality Bakers
+LATER,Hospitality,19,General and Operations Managers,57360,106730,LATER Hospitality General and Operations Managers
+NOW,Hospitality,14,"Media and Communication Workers, All Other",41670,51350,"NOW Hospitality Media and Communication Workers, All Other"
+NOW,Hospitality,14,Cashiers,17890,21250,NOW Hospitality Cashiers
+NOW,Hospitality,14,Counter and Rental Clerks,21130,32380,NOW Hospitality Counter and Rental Clerks
+NOW,Hospitality,14,Retail Salespersons,19150,27140,NOW Hospitality Retail Salespersons
+NOW,Hospitality,14,Customer Service Representatives,25850,34530,NOW Hospitality Customer Service Representatives
+NOW,Hospitality,14,Reservation and Transportation Ticket Agents and Travel Clerks,26750,39440,NOW Hospitality Reservation and Transportation Ticket Agents and Travel Clerks
+NEXT,Hospitality,14,"Property, Real Estate & Community Assoc. Mgr.",25970,53300,"NEXT Hospitality Property, Real Estate & Community Assoc. Mgr."
+NEXT,Hospitality,14,First-Line Supervisors of Retail Sales Workers,29650,41020,NEXT Hospitality First-Line Supervisors of Retail Sales Workers
+NEXT,Hospitality,14,First-Line Supervisors of Non-Retail Sales Workers,49660,71560,NEXT Hospitality First-Line Supervisors of Non-Retail Sales Workers
+LATER,Hospitality,14,Advertising and Promotions Managers,74970,122450,LATER Hospitality Advertising and Promotions Managers
+LATER,Hospitality,14,Marketing Managers,92160,136100,LATER Hospitality Marketing Managers
+LATER,Hospitality,14,Sales Managers,76040,133120,LATER Hospitality Sales Managers
+LATER,Hospitality,14,Public Relations and Fundraising Managers,72340,108580,LATER Hospitality Public Relations and Fundraising Managers
+LATER,Hospitality,14,"Meeting, Convention, and Event Planners",32800,48510,"LATER Hospitality Meeting, Convention, and Event Planners"
+LATER,Hospitality,14,Fundraisers,39770,52840,LATER Hospitality Fundraisers
+LATER,Hospitality,14,Market Research Analysts & Marketing Specialists,41100,64510,LATER Hospitality Market Research Analysts & Marketing Specialists
+LATER,Hospitality,14,Art Directors,66660,104760,LATER Hospitality Art Directors
+LATER,Hospitality,14,Multimedia Artists and Animators,40820,56340,LATER Hospitality Multimedia Artists and Animators
+LATER,Hospitality,14,Graphic Designers,34810,49410,LATER Hospitality Graphic Designers
+LATER,Hospitality,14,Public Relations Specialists,40930,59360,LATER Hospitality Public Relations Specialists
+NEXT,Information Technology,20,Computer User Support Specialists,34390,46570,NEXT Information Technology Computer User Support Specialists
+NEXT,Information Technology,20,Computer Network Support Specialists,40750,55100,NEXT Information Technology Computer Network Support Specialists
+LATER,Information Technology,20,Computer and Information Systems Managers,97360,130240,LATER Information Technology Computer and Information Systems Managers
+LATER,Information Technology,20,Computer Systems Analysts,65550,88110,LATER Information Technology Computer Systems Analysts
+LATER,Information Technology,20,Information Security Analysts,64060,91630,LATER Information Technology Information Security Analysts
+LATER,Information Technology,20,Network and Computer Systems Administrators,60620,80280,LATER Information Technology Network and Computer Systems Administrators
+LATER,Information Technology,20,Computer Network Architects,77000,97120,LATER Information Technology Computer Network Architects
+NEXT,Information Technology,21,Web Developers,40600,59210,NEXT Information Technology Web Developers
+LATER,Information Technology,21,Computer and Information Systems Managers,97360,130240,LATER Information Technology Computer and Information Systems Managers
+LATER,Information Technology,21,Computer Programmers,59760,80030,LATER Information Technology Computer Programmers
+LATER,Information Technology,21,"Software Developers, Applications",75590,96100,"LATER Information Technology Software Developers, Applications"
+LATER,Information Technology,21,"Software Developers, Systems Software",74690,96200,"LATER Information Technology Software Developers, Systems Software"
+LATER,Information Technology,21,Graphic Designers,34810,49410,LATER Information Technology Graphic Designers
+NOW,Transportation and Logistics,22,Cashiers,17890,21250,NOW Transportation and Logistics Cashiers
+NOW,Transportation and Logistics,22,Counter and Rental Clerks,21130,32380,NOW Transportation and Logistics Counter and Rental Clerks
+NOW,Transportation and Logistics,22,Telemarketers,17980,23520,NOW Transportation and Logistics Telemarketers
+NOW,Transportation and Logistics,22,Customer Service Representatives,25850,34530,NOW Transportation and Logistics Customer Service Representatives
+NOW,Transportation and Logistics,22,Driver/Sales Workers,19010,29190,NOW Transportation and Logistics Driver/Sales Workers
+NEXT,Transportation and Logistics,22,First-Line Supervisors of Non-Retail Sales Workers,49660,71560,NEXT Transportation and Logistics First-Line Supervisors of Non-Retail Sales Workers
+LATER,Transportation and Logistics,22,Sales Managers,76040,133120,LATER Transportation and Logistics Sales Managers
+LATER,Transportation and Logistics,22,Purchasing Managers,105080,143470,LATER Transportation and Logistics Purchasing Managers
+LATER,Transportation and Logistics,22,"Sales Rep., Wholesale & Manufacturing, Technical & Scientific Products",54250,84320,"LATER Transportation and Logistics Sales Rep., Wholesale & Manufacturing, Technical & Scientific Products"
+NOW,Transportation and Logistics,23,Light Truck or Delivery Services Drivers,23410,35060,NOW Transportation and Logistics Light Truck or Delivery Services Drivers
+NEXT,Transportation and Logistics,23,Automotive Service Technicians and Mechanics,30220,41900,NEXT Transportation and Logistics Automotive Service Technicians and Mechanics
+NEXT,Transportation and Logistics,23,Bus & Truck Mechanics & Diesel Engine Specialists,33860,43860,NEXT Transportation and Logistics Bus & Truck Mechanics & Diesel Engine Specialists
+NEXT,Transportation and Logistics,23,Aircraft Cargo Handling Supervisors,38580,48520,NEXT Transportation and Logistics Aircraft Cargo Handling Supervisors
+NEXT,Transportation and Logistics,23,Airfield Operations Specialists,31530,41920,NEXT Transportation and Logistics Airfield Operations Specialists
+NEXT,Transportation and Logistics,23,Heavy and Tractor-Trailer Truck Drivers,33120,43480,NEXT Transportation and Logistics Heavy and Tractor-Trailer Truck Drivers
+NEXT,Transportation and Logistics,23,Locomotive Engineers,56750,68670,NEXT Transportation and Logistics Locomotive Engineers
+NOW,Transportation and Logistics,24,Order Clerks,23780,32450,NOW Transportation and Logistics Order Clerks
+NOW,Transportation and Logistics,24,Cargo and Freight Agents,35960,43970,NOW Transportation and Logistics Cargo and Freight Agents
+NOW,Transportation and Logistics,24,"Shipping, Receiving, and Traffic Clerks",26180,33990,"NOW Transportation and Logistics Shipping, Receiving, and Traffic Clerks"
+NOW,Transportation and Logistics,24,Stock Clerks and Order Fillers,20000,26680,NOW Transportation and Logistics Stock Clerks and Order Fillers
+NOW,Transportation and Logistics,24,Conveyor Operators and Tenders,29430,35700,NOW Transportation and Logistics Conveyor Operators and Tenders
+NOW,Transportation and Logistics,24,Industrial Truck and Tractor Operators,26530,34360,NOW Transportation and Logistics Industrial Truck and Tractor Operators
+NOW,Transportation and Logistics,24,"Laborers and Freight, Stock, and Material Movers, Hand",22430,29750,"NOW Transportation and Logistics Laborers and Freight, Stock, and Material Movers, Hand"
+NOW,Transportation and Logistics,24,"Packers and Packagers, Hand",19620,25870,"NOW Transportation and Logistics Packers and Packagers, Hand"
+NEXT,Transportation and Logistics,24,"Bookkeeping, Accounting, and Auditing Clerks",28720,37800,"NEXT Transportation and Logistics Bookkeeping, Accounting, and Auditing Clerks"
+LATER,Transportation and Logistics,24,Logisticians,54470,76570,LATER Transportation and Logistics Logisticians
+NEXT,Energy,2,"Welders, Cutters, Solderers, and Brazers",30100,38730,"NEXT Energy Welders, Cutters, Solderers, and Brazers"
+NEXT,Transportation and Logistics,23,"Dispatchers, Except Police, Fire, and Ambulance",31750,43550,"NEXT Transportation and Logistics Dispatchers, Except Police, Fire, and Ambulance"
+NEXT,Health Care,11,Billing and Posting Clerks,29020,35750,NEXT Health Care Billing and Posting Clerks
+NEXT,Advanced Manufacturing,2,Structural Metal Fabricators and Fitters,30680,37820,NEXT Advanced Manufacturing Structural Metal Fabricators and Fitters
+NEXT,Hospitality,17,"Secretaries & Administrative Assistants, Except Legal, Medical, & Executive",25610,33590,"NEXT Hospitality Secretaries & Administrative Assistants, Except Legal, Medical, & Executive"
+NEXT,Bioscience,2,"Mixing and Blending Machine Setters, Operators, and Tenders",32260,41680,"NEXT Bioscience Mixing and Blending Machine Setters, Operators, and Tenders"
+NEXT,Hospitality,14,Merchandise Displayers and Window Trimmers,23180,28590,NEXT Hospitality Merchandise Displayers and Window Trimmers
+NEXT,Transportation and Logistics,22,Parts Salespersons,21670,31750,NEXT Transportation and Logistics Parts Salespersons
+NEXT,Education,9,Community Health Workers,30730,38280,NEXT Education Community Health Workers
+NEXT,Transportation and Logistics,24,"Production, Planning, and Expediting Clerks",35550,48140,"NEXT Transportation and Logistics Production, Planning, and Expediting Clerks"
+NEXT,Energy,2,"Coil Winders, Tapers, and Finishers",25980,34560,"NEXT Energy Coil Winders, Tapers, and Finishers"
+NEXT,Health Care,15,Occupational Therapy Aides,19020,28550,NEXT Health Care Occupational Therapy Aides
+NEXT,Hospitality,14,"Sales Representatives, Services, All Other",31820,52940,"NEXT Hospitality Sales Representatives, Services, All Other"
+NEXT,Education,7,Bill and Account Collectors,25390,32820,NEXT Education Bill and Account Collectors
+NEXT,Construction,6,Drywall and Ceiling Tile Installers,31540,43450,NEXT Construction Drywall and Ceiling Tile Installers
+NEXT,Transportation and Logistics,23,"Railroad Brake, Signal, and Switch Operators",47360,61450,"NEXT Transportation and Logistics Railroad Brake, Signal, and Switch Operators"
+NEXT,Financial and Professional,12,Loan Interviewers and Clerks,28150,38010,NEXT Financial and Professional Loan Interviewers and Clerks
+NEXT,Advanced Manufacturing,0,"Secretaries & Administrative Assistants, Except Legal, Medical, & Executive",25610,33590,"NEXT Advanced Manufacturing Secretaries & Administrative Assistants, Except Legal, Medical, & Executive"
+NEXT,Financial and Professional,14,"Sales Representatives, Services, All Other",31820,52940,"NEXT Financial and Professional Sales Representatives, Services, All Other"
+NEXT,Advanced Manufacturing,2,Chemical Equipment Operators and Tenders,29350,40680,NEXT Advanced Manufacturing Chemical Equipment Operators and Tenders
+NEXT,Education,9,Social and Human Service Assistants,20440,28120,NEXT Education Social and Human Service Assistants
+NEXT,Bioscience,3,"Farmers, Ranchers & Other Ag. Managers",39680,59740,"NEXT Bioscience Farmers, Ranchers & Other Ag. Managers"
+NEXT,Health Care,15,Social and Human Service Assistants,20440,28120,NEXT Health Care Social and Human Service Assistants
+NEXT,Energy,2,"Computer-Controlled Machine Tool Operators, Metal and Plastic",31740,39790,"NEXT Energy Computer-Controlled Machine Tool Operators, Metal and Plastic"
+NEXT,Hospitality,18,Dancers,0,0,NEXT Hospitality Dancers
+NEXT,Advanced Manufacturing,2,"Lathe & Turning Machine Tool Setters, Operators, & Tenders, Metal & Plastic",29200,40400,"NEXT Advanced Manufacturing Lathe & Turning Machine Tool Setters, Operators, & Tenders, Metal & Plastic"
+NEXT,Financial and Professional,11,"Secretaries & Administrative Assistants, Except Legal, Medical, & Executive",25610,33590,"NEXT Financial and Professional Secretaries & Administrative Assistants, Except Legal, Medical, & Executive"
+NEXT,Education,7,"Secretaries & Administrative Assistants, Except Legal, Medical, & Executive",25610,33590,"NEXT Education Secretaries & Administrative Assistants, Except Legal, Medical, & Executive"
+NEXT,Hospitality,19,"Cooks, All Other",18740,28220,"NEXT Hospitality Cooks, All Other"
+NEXT,Advanced Manufacturing,2,"Computer-Controlled Machine Tool Operators, Metal and Plastic",31740,39790,"NEXT Advanced Manufacturing Computer-Controlled Machine Tool Operators, Metal and Plastic"
+NEXT,Hospitality,19,Chefs and Head Cooks,31060,44800,NEXT Hospitality Chefs and Head Cooks
+NEXT,Health Care,15,Pharmacy Technicians,24850,30610,NEXT Health Care Pharmacy Technicians
+NEXT,Advanced Manufacturing,2,"Cutting, Punching & Press Machine Setters, Oper. & Tenders, Metal & Plastic",26860,33860,"NEXT Advanced Manufacturing Cutting, Punching & Press Machine Setters, Oper. & Tenders, Metal & Plastic"
+NEXT,Financial and Professional,12,"Title Examiners, Abstractors, and Searchers",34060,49240,"NEXT Financial and Professional Title Examiners, Abstractors, and Searchers"
+NEXT,Energy,2,Structural Metal Fabricators and Fitters,30680,37820,NEXT Energy Structural Metal Fabricators and Fitters
+NEXT,Financial and Professional,13,Legal Secretaries,30480,41730,NEXT Financial and Professional Legal Secretaries
+NEXT,Transportation and Logistics,23,Railroad Conductors and Yardmasters,52730,64170,NEXT Transportation and Logistics Railroad Conductors and Yardmasters
+NEXT,Bioscience,2,Packaging and Filling Machine Operators & Tenders,24310,32670,NEXT Bioscience Packaging and Filling Machine Operators & Tenders
+NEXT,Bioscience,3,Veterinary Assistants & Lab. Animal Caretakers,19770,24680,NEXT Bioscience Veterinary Assistants & Lab. Animal Caretakers
+NEXT,Financial and Professional,14,New Accounts Clerks,25570,30810,NEXT Financial and Professional New Accounts Clerks
+NEXT,Bioscience,4,"Inspectors, Testers, Sorters, Samplers & Weighers",29530,40330,"NEXT Bioscience Inspectors, Testers, Sorters, Samplers & Weighers"
+NEXT,Transportation and Logistics,22,"Sales Rep., Wholesale & Manufacturing, Except Tech. & Scientific Products",37930,63700,"NEXT Transportation and Logistics Sales Rep., Wholesale & Manufacturing, Except Tech. & Scientific Products"
+NEXT,Construction,6,Supervisors of Construction and Extraction Workers,51730,71550,NEXT Construction Supervisors of Construction and Extraction Workers
+NEXT,Advanced Manufacturing,0,"Sales Rep., Wholesale & Manufacturing, Except Tech. & Scientific Products",37930,63700,"NEXT Advanced Manufacturing Sales Rep., Wholesale & Manufacturing, Except Tech. & Scientific Products"
+NEXT,Financial and Professional,11,Payroll and Timekeeping Clerks,29400,39250,NEXT Financial and Professional Payroll and Timekeeping Clerks
+NEXT,Bioscience,2,"Maintenance Workers, Machinery",37870,46740,"NEXT Bioscience Maintenance Workers, Machinery"
+NEXT,Transportation and Logistics,22,Procurement Clerks,32480,39220,NEXT Transportation and Logistics Procurement Clerks
+NEXT,Education,7,Payroll and Timekeeping Clerks,29400,39250,NEXT Education Payroll and Timekeeping Clerks
+NEXT,Advanced Manufacturing,2,"Extruding & Drawing Machine Setters, Operators, & Tenders, Metal & Plastic",27610,34620,"NEXT Advanced Manufacturing Extruding & Drawing Machine Setters, Operators, & Tenders, Metal & Plastic"
+NEXT,Education,9,Residential Advisors,22220,28470,NEXT Education Residential Advisors
+NEXT,Construction,6,Operating Engineers and Other Construction Equipment Operators,36860,54140,NEXT Construction Operating Engineers and Other Construction Equipment Operators
+NEXT,Hospitality,17,Concierges,21250,25240,NEXT Hospitality Concierges
+NEXT,Transportation and Logistics,23,"Trans., Storage, and Distribution Managers",68310,96580,"NEXT Transportation and Logistics Trans., Storage, and Distribution Managers"
+NEXT,Hospitality,18,"Umpires, Referees, and Other Sports Officials",18420,29880,"NEXT Hospitality Umpires, Referees, and Other Sports Officials"
+NEXT,Advanced Manufacturing,2,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",26750,35210,"NEXT Advanced Manufacturing Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+NEXT,Advanced Manufacturing,2,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",27870,34440,"NEXT Advanced Manufacturing Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+NEXT,Financial and Professional,12,Brokerage Clerks,36490,45640,NEXT Financial and Professional Brokerage Clerks
+NEXT,Advanced Manufacturing,1,"Maintenance Workers, Machinery",37870,46740,"NEXT Advanced Manufacturing Maintenance Workers, Machinery"
+NEXT,Health Care,11,Medical Secretaries,26520,33030,NEXT Health Care Medical Secretaries
+NEXT,Construction,6,Cement Masons and Concrete Finishers,37040,53000,NEXT Construction Cement Masons and Concrete Finishers
+NEXT,Energy,5,Surveying and Mapping Technicians,32270,41460,NEXT Energy Surveying and Mapping Technicians
+NEXT,Advanced Manufacturing,2,Engine and Other Machine Assemblers,34070,40350,NEXT Advanced Manufacturing Engine and Other Machine Assemblers
+NEXT,Energy,2,Engine and Other Machine Assemblers,34070,40350,NEXT Energy Engine and Other Machine Assemblers
+NEXT,Transportation and Logistics,23,Commercial Pilots,61310,85060,NEXT Transportation and Logistics Commercial Pilots
+NEXT,Health Care,15,Community Health Workers,30730,38280,NEXT Health Care Community Health Workers
+NEXT,Construction,5,"Inspectors, Testers, Sorters, Samplers & Weighers",29530,40330,"NEXT Construction Inspectors, Testers, Sorters, Samplers & Weighers"
+NEXT,Bioscience,2,"Sep., Filtering, Clarifying, Precipitating Still Mach. Set., Oper. & Tend.",32220,39580,"NEXT Bioscience Sep., Filtering, Clarifying, Precipitating Still Mach. Set., Oper. & Tend."
+NEXT,Construction,6,Roofers,32950,46110,NEXT Construction Roofers
+NEXT,Financial and Professional,12,Tax Preparers,24760,41020,NEXT Financial and Professional Tax Preparers
+NEXT,Transportation and Logistics,24,"Trans., Storage, and Distribution Managers",68310,96580,"NEXT Transportation and Logistics Trans., Storage, and Distribution Managers"
+NEXT,Construction,5,Construction and Building Inspectors,41810,51400,NEXT Construction Construction and Building Inspectors
+NEXT,Advanced Manufacturing,2,Packaging and Filling Machine Operators & Tenders,24310,32670,NEXT Advanced Manufacturing Packaging and Filling Machine Operators & Tenders
+NEXT,Energy,5,"Inspectors, Testers, Sorters, Samplers & Weighers",29530,40330,"NEXT Energy Inspectors, Testers, Sorters, Samplers & Weighers"
+NEXT,Hospitality,18,Musicians and Singers,0,0,NEXT Hospitality Musicians and Singers
+NEXT,Energy,2,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",27870,34440,"NEXT Energy Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+NEXT,Advanced Manufacturing,2,"Welders, Cutters, Solderers, and Brazers",30100,38730,"NEXT Advanced Manufacturing Welders, Cutters, Solderers, and Brazers"
+NEXT,Hospitality,14,Advertising Sales Agents,25310,46210,NEXT Hospitality Advertising Sales Agents
+NEXT,Financial and Professional,12,Insurance Claims and Policy Processing Clerks,29800,41990,NEXT Financial and Professional Insurance Claims and Policy Processing Clerks
+NEXT,Hospitality,18,Actors,0,0,NEXT Hospitality Actors
+NEXT,Financial and Professional,11,Billing and Posting Clerks,29020,35750,NEXT Financial and Professional Billing and Posting Clerks
+NEXT,Financial and Professional,12,"Credit Authorizers, Checkers, and Clerks",29050,35720,"NEXT Financial and Professional Credit Authorizers, Checkers, and Clerks"
+NEXT,Advanced Manufacturing,2,"Grind., Lap., Polish. & Buff. Mach. Tool Set., Oper. & Tend., Met. & Plast.",27790,37370,"NEXT Advanced Manufacturing Grind., Lap., Polish. & Buff. Mach. Tool Set., Oper. & Tend., Met. & Plast."
+NEXT,Advanced Manufacturing,2,"Molding, Coremaking & Casting Machine Set., Oper. & Tend., Metal & Plastic",22570,29070,"NEXT Advanced Manufacturing Molding, Coremaking & Casting Machine Set., Oper. & Tend., Metal & Plastic"
+NEXT,Financial and Professional,11,Bill and Account Collectors,25390,32820,NEXT Financial and Professional Bill and Account Collectors
+NEXT,Financial and Professional,14,Advertising Sales Agents,25310,46210,NEXT Financial and Professional Advertising Sales Agents
+NEXT,Construction,6,"Welders, Cutters, Solderers, and Brazers",30100,38730,"NEXT Construction Welders, Cutters, Solderers, and Brazers"
+NEXT,Bioscience,2,Chemical Equipment Operators and Tenders,29350,40680,NEXT Bioscience Chemical Equipment Operators and Tenders
+NEXT,Construction,6,"Painters, Construction and Maintenance",35560,50240,"NEXT Construction Painters, Construction and Maintenance"
+NEXT,Construction,6,"Paving, Surfacing, and Tamping Equipment Operators",34520,50060,"NEXT Construction Paving, Surfacing, and Tamping Equipment Operators"
+NEXT,Advanced Manufacturing,2,"Extruding, Forming, Pressing & Compacting Machine Setters, Oper. & Tenders",29670,35930,"NEXT Advanced Manufacturing Extruding, Forming, Pressing & Compacting Machine Setters, Oper. & Tenders"

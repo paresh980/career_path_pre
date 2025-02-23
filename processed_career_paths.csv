@@ -1,0 +1,23 @@
+Skills,Interests,Education Level,Career Path,combined_features
+Python;Machine Learning;Data Science,Research;Coding,Bachelor's,0,Python;Machine Learning;Data Science Research;Coding Bachelor's
+Java;Spring Boot;Backend Development,Coding;Problem Solving,Bachelor's,1,Java;Spring Boot;Backend Development Coding;Problem Solving Bachelor's
+HTML;CSS;JavaScript;React,Design;UI/UX,Bachelor's,2,HTML;CSS;JavaScript;React Design;UI/UX Bachelor's
+Cybersecurity;Networking;Linux,Hacking;Security Analysis,Bachelor's,3,Cybersecurity;Networking;Linux Hacking;Security Analysis Bachelor's
+Accounting;Finance;Excel,Financial Analysis;Stock Market,Bachelor's,4,Accounting;Finance;Excel Financial Analysis;Stock Market Bachelor's
+AI;Deep Learning;TensorFlow,Research;AI Development,Master's,5,AI;Deep Learning;TensorFlow Research;AI Development Master's
+Marketing;SEO;Google Ads,Digital Marketing;Social Media,Bachelor's,6,Marketing;SEO;Google Ads Digital Marketing;Social Media Bachelor's
+Content Writing;Blogging;SEO,Writing;Creativity,Bachelor's,7,Content Writing;Blogging;SEO Writing;Creativity Bachelor's
+HR;Recruitment;Employee Management,Communication;People Management,MBA,8,HR;Recruitment;Employee Management Communication;People Management MBA
+Business Strategy;Market Analysis,Leadership;Decision Making,MBA,9,Business Strategy;Market Analysis Leadership;Decision Making MBA
+C++;Game Development;Unity,Creativity;Game Design,Bachelor's,10,C++;Game Development;Unity Creativity;Game Design Bachelor's
+Biology;Chemistry;Lab Research,Scientific Research;Experiments,Master's,11,Biology;Chemistry;Lab Research Scientific Research;Experiments Master's
+Electrical Circuits;Embedded Systems;IoT,Hardware;Electronics,Bachelor's,12,Electrical Circuits;Embedded Systems;IoT Hardware;Electronics Bachelor's
+Cloud Computing;AWS;DevOps,Automation;Infrastructure,Bachelor's,13,Cloud Computing;AWS;DevOps Automation;Infrastructure Bachelor's
+Legal Research;Contracts;Corporate Law,Legal Cases;Problem Solving,Master's,14,Legal Research;Contracts;Corporate Law Legal Cases;Problem Solving Master's
+Teaching;Education;Psychology,Public Speaking;Guiding,Bachelor's,15,Teaching;Education;Psychology Public Speaking;Guiding Bachelor's
+Video Editing;Filmmaking;Animation,Creativity;Storytelling,Bachelor's,16,Video Editing;Filmmaking;Animation Creativity;Storytelling Bachelor's
+Nursing;Patient Care;Medical Knowledge,Helping People;Healthcare,Bachelor's,17,Nursing;Patient Care;Medical Knowledge Helping People;Healthcare Bachelor's
+Mechanical Design;AutoCAD;Manufacturing,Engineering;Technical Design,Bachelor's,18,Mechanical Design;AutoCAD;Manufacturing Engineering;Technical Design Bachelor's
+Sales;Negotiation;CRM,Marketing;Client Relations,Bachelor's,19,Sales;Negotiation;CRM Marketing;Client Relations Bachelor's
+Data Analysis;SQL;Power BI,Numbers;Insights,Bachelor's,20,Data Analysis;SQL;Power BI Numbers;Insights Bachelor's
+Robotics;Automation;AI,Engineering;Innovation,Master's,21,Robotics;Automation;AI Engineering;Innovation Master's
